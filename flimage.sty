@@ -1,0 +1,15 @@
+% \newcounter{captura}[section]
+% \newenvironment{captura}{\medskip}{\medskip}
+   
+\newcommand{\flimage}[2]
+{ 
+    % \begin{captura}[H]
+    \begin{figure}[H]
+    \begin{center}
+    \resizebox{65mm}{35mm}{ \includegraphics{#1} }
+    \caption{#2}
+    \end{center}
+    \end{figure}
+    % \end{captura}
+}
+

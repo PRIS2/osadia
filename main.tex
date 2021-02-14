@@ -3,7 +3,6 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   Paquetes y librerías iniciales para un documento,   
 %           Graficos, simbolos, tablas, bibliografía
@@ -57,7 +56,7 @@ bookmarks=true,bookmarksopenlevel=2]{hyperref}
 %\bibliographystyle{apalike}
 \bibliographystyle{IEEEtran}
 
-%%%%%%%%% HAbituales estilos
+%%%%%%%%% Habituales estilos
 %plainnat
 %%abbrvnat
 %unsrtnat  %Items in bibliography sorted in order cited)
@@ -65,25 +64,26 @@ bookmarks=true,bookmarksopenlevel=2]{hyperref}
 
 %
 
-%%%%%%%%%%%%%%%%%%%% Formato de la ual %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%% Formato de la UAL %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %\usepackage{UAL}
 \usepackage[print,doble]{UAL}
 \usepackage{codigo}
+\usepackage{flimage}
 
 %%%%%% PAQUETES INCORPORADOS POR EL USUARIO
 
 \usepackage{longtable}   %Tablas largas
 \usepackage{verbatim}
 \usepackage{textcomp} %para completar los signos válidos
-\usepackage{eurosym} %simbolo del euro [\euro]
+\usepackage{eurosym} %símbolo del euro [\euro]
 \usepackage[bottom]{footmisc}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Datos identificativos del TFG                            %
+% Datos identificativos del TFG                   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \author{Isabel María del Águila Cano}
@@ -93,7 +93,7 @@ INFORMÁTICA\\  ÁREA DE LENGUAJES Y SISTEMAS INFORMÁTICOS}
 \estudios{Grado en Informática }
 \universidad{UNIVERSIDAD DE ALMERÍA}
 \director{Fulanito de tal} 
-\direct{Menganito de cual}
+\direct{Menganito de la UAL}
 \curso {2020/2021}
 
 
@@ -111,6 +111,8 @@ INFORMÁTICA\\  ÁREA DE LENGUAJES Y SISTEMAS INFORMÁTICOS}
 
 \input{indicesyrefe}
 
+\
+
 % Borra el bloque si sólo queremos resumen en contraportada
 \addcontentsline{toc}{chapter}{Resumen y Abstract}
 
@@ -127,8 +129,9 @@ INFORMÁTICA\\  ÁREA DE LENGUAJES Y SISTEMAS INFORMÁTICOS}
 
 \input{contenido2}
 
+\flimage{articulo.jpg}{Pie de figura}
 
-\addcontentsline{toc}{section}{BIBLIOGRAFÍA }
+\addcontentsline{toc}{section}{BIBLIOGRAFÍA}
 \bibliography{referencias}
 
 \appendix
