@@ -8,5 +8,9 @@ Equipo formado de forma absoluta y completamente aleatoria por la mente maestra 
 * **Leandro Nicolás Ortega Ponce** -  [https://github.com/nicoop98](https://github.com/nicoop98).
 * **Jose María Morales Miñarro** - [https://github.com/jmm497](https://github.com/jmm497).
 
+## Cambios realizados
+En primer lugar, se realizó la definición del nuevo elemento flotante de la siguiente forma, lo cual será vital para el correcto funcionamiento de la nueva opción:
+
+
 # Bibliografía
 * **Stack Overflow** -  [enlace a la pregunta](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
