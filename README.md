@@ -17,7 +17,7 @@ En primer lugar, se realizó la definición del nuevo elemento flotante de la si
 
 ![foto con la nueva lista](/fotos_readme/1.png)
 
-Continuemos ahora con el archivo UAL.sty. Allí, al final del mismo, definiremos la forma en que podamos acceder en sí a las diversas imágenes que tenemos guardadas dentro de la carpeta "Capturas", para poder mostrarlas correctamente en el documento, definiendo sus parámetros adecuados y sentando las bases para que podamos, para cada captura específica, indicar el pié de página:
+Continuemos ahora con el archivo UAL.sty. Allí, al final del mismo, definiremos la forma en que podamos acceder en sí a las diversas imágenes que tenemos guardadas dentro de la carpeta "Capturas", para poder mostrarlas correctamente en el documento, definiendo sus parámetros adecuados y sentando las bases para que podamos, para cada captura específica, indicar el pie de página:
 
 ![foto con camino grafico](/fotos_readme/2.png)
 
@@ -32,7 +32,7 @@ En primer lugar, los Issues. Dejando de lado el issue generado por el profesorad
 
 ![foto con issues](/fotos_readme/6.PNG)
 
-En segundo lugar, construimos un "Project", he hicimos uso de una de las plantillas pre-hechas para la gestión del proyecto. Aquí tendríamos tres columnas: la primera recogería aquellos "eventos" que aun no se han realizado, la segunda, aquellos que están en progreso; para finalizar, la tercera recogería aquello que ya hemos completado satisfactoriamente. A diferencia de los Issues, los elementos del Project los creábamos de forma previa a trabajar, con el objetivo de organizar las cosas que ya habíamos hecho, y las que aun teníamos por hacer de forma general.
+En segundo lugar, construimos un "Project", he hicimos uso de una de las plantillas pre-hechas para la gestión del proyecto. Aquí tendríamos tres columnas: la primera recogería aquellos "eventos" que aun no se han realizado, la segunda, aquellos que están en progreso; para finalizar, la tercera recogería aquello que ya hemos completado satisfactoriamente. A diferencia de los Issues, los elementos del Project los creábamos de forma previa a trabajar, con el objetivo de organizar las cosas que ya habíamos hecho, y las que aún teníamos por hacer de forma general.
 
 ![foto con project](/fotos_readme/5.PNG)
 
