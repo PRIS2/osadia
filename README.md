@@ -19,18 +19,22 @@ En primer lugar, se realizó la definición del nuevo elemento flotante de la si
 
 Continuemos ahora con el archivo UAL.sty. Allí, al final del mismo, definiremos la forma en que podamos acceder en sí a las diversas imágenes que tenemos guardadas dentro de la carpeta "Capturas", para poder mostrarlas correctamente en el documento, definiendo sus parámetros adecuados y sentando las bases para que podamos, para cada captura específica, indicar el pié de página:
 
-![foto con la nueva lista](/fotos_readme/2.png)
+![foto con camino grafico](/fotos_readme/2.png)
 
 Para finalizar, en el archivo contenido2.tex, tendremos la llamada correspondiente para mostrar algunas imágenes del tipo "Captura" de ejemplo, funcionando correctamente. El código empleado, así como su previsualización, se muestran a continuación:
 
-![foto con la nueva lista](/fotos_readme/4.png)
+![foto con ejemplos](/fotos_readme/4.png)
 
 ## Gestión del desarrollo
 Para gestionar adecuadamente el trabajo a realizar, hemos hecho uso principalmente de dos de las herramientas que nos ofrece github.
 
 En primer lugar, los Issues. Dejando de lado el issue generado por el profesorado, el resto de issues fueron creados durante el desarrollo en el momento en el que observábamos que algo necesitaba o bien una revisión o una reconstrucción. Así pues, servían a modo de "anotaciones" de cosas a resolver más adelante.
 
+![foto con issues](/fotos_readme/6.PNG)
+
 En segundo lugar, construimos un "Project", he hicimos uso de una de las plantillas pre-hechas para la gestión del proyecto. Aquí tendríamos tres columnas: la primera recogería aquellos "eventos" que aun no se han realizado, la segunda, aquellos que están en progreso; para finalizar, la tercera recogería aquello que ya hemos completado satisfactoriamente. A diferencia de los Issues, los elementos del Project los creábamos de forma previa a trabajar, con el objetivo de organizar las cosas que ya habíamos hecho, y las que aun teníamos por hacer de forma general.
+
+![foto con project](/fotos_readme/5.PNG)
 
 En cuanto al funcionamiento del grupo, debido a la naturaleza del proyecto a realizar, optamos por trabajar todos juntos de forma coordinada, en las llamadas "reuniones de trabajo" y "reunión de revisión" dentro del Project, donde haciendo uso de Overleaf y de la herramienta de comunicación Discord, actuamos de forma mayoritariamente síncrona en el desarrollo, si bien en algunos puntos, cuando aparecían algunos problemas por resolver, se podía llegar a trabajar de forma asíncrona buscando soluciones.
 
